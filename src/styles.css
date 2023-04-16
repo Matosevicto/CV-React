@@ -1,0 +1,61 @@
+.parent {
+  float: left;
+  padding:20px 300px 10px 20px
+  
+  }
+  .child {
+    float: right;
+    padding: 20px 20px 10px;
+  }
+  .profile-img{
+    width: 25%;
+    padding: 5px;
+    border: fff;
+    background-color: #2b6777;
+    height: 200px;
+    -moz-border-radius:150px;
+    -webkit-border-radius: 150px;
+    width: 200px;
+    
+  }
+  .naslov{
+   padding: 50px 0px 0px 0px;
+   position: relative;
+   top: 16px;
+  }
+  .sposobnost{
+    padding: 20px
+  }
+  h1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color:#2b6777 ;
+  }
+  h4{
+    
+    color:rgb(170, 168, 168)
+  }
+  h2{
+    color: #ffffff;
+  }
+  #card{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
+  }
+  #bar{
+    background-color: rgb(159, 158, 158);
+    margin-left: 100px;
+    margin-right: 100px;
+  
+  }
+  hr{
+    width: 75%;
+    text-align: center;
+    position: relative;
+    left: 100px;
+    right: 100px;
+
+    color: rgb(159, 158, 158);
+    
+  }
